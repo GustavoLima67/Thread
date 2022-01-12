@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\obj\Debug\net6.0\TestandoCodigosC#.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\obj\Debug\net6.0\TestandoCodigosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\obj\Debug\net6.0\TestandoCodigosC#.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\obj\Debug\net6.0\TestandoCodigosC#.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\obj\Debug\net6.0\TestandoCodigosC#.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\bin\Debug\net6.0\TestandoCodigosC#.exe
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\bin\Debug\net6.0\TestandoCodigosC#.deps.json
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\bin\Debug\net6.0\TestandoCodigosC#.runtimeconfig.json
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\bin\Debug\net6.0\TestandoCodigosC#.dll
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\bin\Debug\net6.0\ref\TestandoCodigosC#.dll
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\bin\Debug\net6.0\TestandoCodigosC#.pdb
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\obj\Debug\net6.0\TestandoCodigosC#.dll
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\obj\Debug\net6.0\ref\TestandoCodigosC#.dll
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\obj\Debug\net6.0\TestandoCodigosC#.pdb
+C:\Users\Gustavo\Documents\ProjetosVScode\TestandoCodigosC#\obj\Debug\net6.0\TestandoCodigosC#.genruntimeconfig.cache
